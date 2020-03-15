@@ -2,7 +2,7 @@
 
 The `Factorial.hs` is a dummy example file.
 
-To complete the final, edit the three above files to fill in the solutions.
+To complete the final, edit the above file to fill in the solutions.
 Work on each problem separately by suitably editing the respective files, 
 reloading in GHCi, testing etc.
 
