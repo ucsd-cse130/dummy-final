@@ -26,6 +26,13 @@ $ make cont
 
 in a separate window to **automatically recompile** the code after every edit.
 
+## Submitting
+
+As before to submit just do
+
+```
+$ make turnin
+```
 
 ## Testing
 
