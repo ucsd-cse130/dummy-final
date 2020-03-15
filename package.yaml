@@ -1,0 +1,19 @@
+name:                cse130-final-sp20 
+version:             0.1.0.0
+license:             MIT
+author:              "Ranjit Jhala"
+maintainer:          "jhala@cs.ucsd.edu"
+copyright:           "2020 Ranjit Jhala"
+
+extra-source-files:
+- README.md
+
+description:   Source files for Final Exam
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+  default-extensions:
+    - OverloadedStrings

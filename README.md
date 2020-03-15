@@ -1,11 +1,6 @@
 ## CSE 130 Spring 20 Final Exam
 
-The exam is split into **three problems** each in its own file inside `src/`. 
-(The `Factorial.hs` is a dummy example file.)
-
-1. [Type Checker for Nano](src/TypeCheck.hs) 
-2. [Radix Trees](src/Radix.hs) 
-3. [Elsa](src/Elsa.hs)
+The `Factorial.hs` is a dummy example file.
 
 To complete the final, edit the three above files to fill in the solutions.
 Work on each problem separately by suitably editing the respective files, 
@@ -70,7 +65,7 @@ If all the tests pass you should see something like
 
 ```
 doctest src/*.hs
-Examples: 45  Tried: 45  Errors: 0  Failures: 0
+Examples: 2  Tried: 2  Errors: 0  Failures: 0
 ```
 
 Otherwise, you will see a description of which test(s) failed.
